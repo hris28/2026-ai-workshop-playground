@@ -1,0 +1,11 @@
+[project]
+name = "2026-ai-workshop-evals"
+version = "0.1.0"
+description = "Evaluation workspace for the 2026 AI workshop"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "jupyterlab>=4.6.1",
+    "ollama>=0.6.2",
+]
